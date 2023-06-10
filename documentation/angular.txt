@@ -1,0 +1,19 @@
+--> Crear las variables de entorno.
+ng generate environments
+
+--> Crear modulo.
+ng generate module whatsapp
+
+--> Crear el servicio.
+ng generate service whatsapp/services/whatsapp-cloud-api
+
+--> Crear componentes.
+ng generate component whatsapp/pages/flight-confirmation
+ng generate component whatsapp/pages/movie-confirmation
+ng generate component whatsapp/pages/happy-hour-announc
+
+--> Crear el modulo.
+ng generate module shared
+
+-> Crear componente.
+ng generate component shared/navbar

@@ -1,0 +1,23 @@
+div {
+    padding: 5px;
+}
+
+input {
+    margin-left: 10px;
+}
+
+img {
+    margin-left: 10px;
+}
+
+.small-picture {
+    width: 50px;
+}
+
+.medium-picture {
+    width: 150px;
+}
+
+.large-picture {
+    width: 300px;
+}
